@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe.config
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\bin\Debug\Fundamentals.pdb
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\obj\Debug\Fundamentals.exe
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Fundamentals\Fundamentals\Fundamentals\obj\Debug\Fundamentals.pdb
